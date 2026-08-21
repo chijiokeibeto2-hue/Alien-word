@@ -1,7 +1,7 @@
 # Alien-word
- A New Word to Start with 
+ A New Word to Start with  <img src="images/photo.jpg" alt="My Photo">
 
 
 # welcome 
 
-<img src="photo.jpg" alt="My Photo" width="300">
+
