@@ -3,3 +3,5 @@
 
 
 # welcome 
+
+<img src="photo.jpg" alt="My Photo" width="300">
